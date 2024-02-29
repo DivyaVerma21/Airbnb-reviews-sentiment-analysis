@@ -5,4 +5,4 @@ The dataset used in this project is the TripAdvisor Hotel Reviews dataset, which
 - Dataset: [TripAdvisor Hotel Reviews]
 - Source: [Kaggle]
   ## Credits
-I must not forget to give credits to Chatgpt for helping me with the coding.
+Thanks copilot and Chatgpt for helping me with the coding.
